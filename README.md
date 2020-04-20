@@ -1,5 +1,7 @@
 # LD46Mac
 
+Go to https://voidsay.itch.io/dr-statnils-dodo-egg and download it there!
+
 Dosn't work! Don't download! Making a itch.io site to download it from.
 
 Mac executable for Ludumdare game.
